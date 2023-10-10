@@ -3,7 +3,7 @@
 **【关于我们】**
 
 * [Articulate v1.0](https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q)
-* [Articulate v2.0 待定.......]()
+* [Articulate v2.0](https://mp.weixin.qq.com/s/V5Axn-ZWi22ubh5Jiocb9g)
 
 [![](https://img.shields.io/badge/GitHub-zrf--rocket-blue?logo=gitpod)](https://github.com/zrf-rocket)
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
@@ -85,3 +85,24 @@
     * [基于AI图像识别的智能缺陷检测系统，在钢铁行业的应用-技术方案](https://mp.weixin.qq.com/s/dSHbnuOwQZzE4CvPr1JYjg)
 
 # 安全运营中心（SOC）-终端侦测与响应系统（EDR） 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
